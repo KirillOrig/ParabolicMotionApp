@@ -1,0 +1,10 @@
+C:\Users\xbsbd\source\repos\ParabolicMotionApp\ParabolicMotionApp\bin\Debug\ParabolicMotionApp.exe.config
+C:\Users\xbsbd\source\repos\ParabolicMotionApp\ParabolicMotionApp\bin\Debug\ParabolicMotionApp.exe
+C:\Users\xbsbd\source\repos\ParabolicMotionApp\ParabolicMotionApp\bin\Debug\ParabolicMotionApp.pdb
+C:\Users\xbsbd\source\repos\ParabolicMotionApp\ParabolicMotionApp\obj\Debug\ParabolicMotionApp.csproj.AssemblyReference.cache
+C:\Users\xbsbd\source\repos\ParabolicMotionApp\ParabolicMotionApp\obj\Debug\ParabolicMotionApp.Properties.Resources.resources
+C:\Users\xbsbd\source\repos\ParabolicMotionApp\ParabolicMotionApp\obj\Debug\ParabolicMotionApp.csproj.GenerateResource.cache
+C:\Users\xbsbd\source\repos\ParabolicMotionApp\ParabolicMotionApp\obj\Debug\ParabolicMotionApp.csproj.CoreCompileInputs.cache
+C:\Users\xbsbd\source\repos\ParabolicMotionApp\ParabolicMotionApp\obj\Debug\ParabolicMotionApp.exe
+C:\Users\xbsbd\source\repos\ParabolicMotionApp\ParabolicMotionApp\obj\Debug\ParabolicMotionApp.pdb
+C:\Users\xbsbd\source\repos\ParabolicMotionApp\ParabolicMotionApp\obj\Debug\BaseFigureMotionApp.Form1.resources
